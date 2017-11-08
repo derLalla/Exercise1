@@ -2,6 +2,7 @@
 public class HelloUser {
 	private String userName;
 	
+	
 	public HelloUser(String pUserName) {
 		userName = pUserName;
 	}
